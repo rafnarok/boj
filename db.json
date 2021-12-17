@@ -1,1 +1,48 @@
-{"numResultados":1,"resultado":{"bojaNumber":503,"bojaDate":"25 de diciembre de 2021","enlace":"/eboja/2021/241/index.html","secciones":[{"titulo":"1. Disposiciones generales","enlace":"/eboja/2021/241/s51.html","subsecciones":[]},{"titulo":"2. Autoridades y personal","enlace":null,"subsecciones":[{"titulo":"2.1. Nombramientos, situaciones e incidencias","enlace":"/eboja/2021/241/s52.html"},{"titulo":"2.2. Oposiciones, concursos y otras convocatorias","enlace":"/eboja/2021/241/s53.html"}]},{"titulo":"3. Otras disposiciones","enlace":"/eboja/2021/241/s54.html","subsecciones":[]},{"titulo":"5. Anuncios","enlace":null,"subsecciones":[{"titulo":"5.1. Licitaciones públicas y adjudicaciones","enlace":"/eboja/2021/241/s56.html"},{"titulo":"5.2. Otros anuncios oficiales","enlace":"/eboja/2021/241/s57.html"}]}]}}
+{
+    "numResultados": 1,
+    "resultado": {
+        "bojaNumber": 503,
+        "bojaDate": "25 de diciembre de 2021",
+        "enlace": "/eboja/2021/241/index.html",
+        "secciones": [
+            {
+                "titulo": "1. Disposiciones generales",
+                "enlace": "/eboja/2021/241/s51.html",
+                "subsecciones": []
+            },
+            {
+                "titulo": "2. Autoridades y personal",
+                "enlace": null,
+                "subsecciones": [
+                    {
+                        "titulo": "2.1. Nombramientos, situaciones e incidencias",
+                        "enlace": "/eboja/2021/241/s52.html"
+                    },
+                    {
+                        "titulo": "2.2. Oposiciones, concursos y otras convocatorias",
+                        "enlace": "/eboja/2021/241/s53.html"
+                    }
+                ]
+            },
+            {
+                "titulo": "3. Otras disposiciones",
+                "enlace": "/eboja/2021/241/s54.html",
+                "subsecciones": []
+            },
+            {
+                "titulo": "5. Anuncios",
+                "enlace": null,
+                "subsecciones": [
+                    {
+                        "titulo": "5.1. Licitaciones públicas y adjudicaciones",
+                        "enlace": "/eboja/2021/241/s56.html"
+                    },
+                    {
+                        "titulo": "5.2. Otros anuncios oficiales",
+                        "enlace": "/eboja/2021/241/s57.html"
+                    }
+                ]
+            }
+        ]
+    }
+}
